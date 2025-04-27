@@ -54,7 +54,7 @@ Each of these is converted to bits (8 bits per byte) and written into the first 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/isg.git
+   git clone https://github.com/g-utsav/ISG---Infinite-Storage-Glitch.git
    cd isg
 
 2. Build the project using Maven:
