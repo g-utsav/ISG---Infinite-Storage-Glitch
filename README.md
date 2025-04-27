@@ -62,7 +62,11 @@ Built using the JCodec library for video processing.
 
 ## Disclaimer
 
-This project is intended purely for educational and learning purposes.  
-We do not encourage or endorse any misuse of this technique to violate the terms and conditions of YouTube or any other platforms.  
-Any misuse or violation arising from the use of this project is solely the responsibility of the user.  
+This project has been developed solely for educational and learning purposes.
+It is not intended to promote or encourage the misuse of any platform's terms of service, community guidelines, or content policies.
+The creator (me) does not endorse or take any responsibility for the misuse of this tool.
+Any usage of this project for violating platform rules, uploading prohibited content, bypassing storage restrictions, or any other unethical/illegal activities is strictly the user's responsibility.
+This project was made in good faith as a way to explore creative and technical ideas in data encoding and video processing.
 The author has created this project in good faith for learning purposes only and is not liable for any actions taken by others.
+
+Always use technology responsibly. 🙏
