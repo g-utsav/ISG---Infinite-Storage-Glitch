@@ -1,0 +1,39 @@
+# Maven target directory
+/target/
+
+# IntelliJ IDEA project files
+/.idea/
+/*.iml
+
+# VS Code settings
+/.vscode/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Maven-specific files
+.mvn/
+!**/src/main/**
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# JAR files
+*.jar
+
+# Generated files
+*.war
+*.ear
+
+# Exclude specific files
+secret.zip
+secret_video.mp4
