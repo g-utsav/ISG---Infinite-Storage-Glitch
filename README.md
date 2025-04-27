@@ -59,3 +59,10 @@ Acknowledgments
 Inspired by the Infinite Storage Glitch (ISG) concept.
 Inspired by the following repository written in Rust: DvorakDwarf/Infinite-Storage-Glitch
 Built using the JCodec library for video processing.
+
+## Disclaimer
+
+This project is intended purely for educational and learning purposes.  
+We do not encourage or endorse any misuse of this technique to violate the terms and conditions of YouTube or any other platforms.  
+Any misuse or violation arising from the use of this project is solely the responsibility of the user.  
+The author has created this project in good faith for learning purposes only and is not liable for any actions taken by others.
